@@ -1,6 +1,6 @@
 ## 🙋🏻‍♂️ Introducing Myself
 
-![Profile Banner](image.jpg) <!-- Replace with your actual banner image URL -->
+![Profile Banner](img.jpg) <!-- Replace with your actual banner image URL -->
 
 Hello! I'm Muhammad Furqan Riansyah Putra, a passionate Telecommunication Engineering student at ITB, where I delve into the exciting realms of signal processing, network engineering, and robotics!
 
