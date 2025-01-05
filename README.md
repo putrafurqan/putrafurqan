@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🙋🏻‍♂️ Introducing Myself
 
-<!--
-**putrafurqan/putrafurqan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](src/img.jpg) <!-- Replace with your actual banner image URL -->
 
-Here are some ideas to get you started:
+Hello! I'm Muhammad Furqan Riansyah Putra, a passionate Telecommunication Engineering student at ITB, where I delve into the exciting realms of signal processing, network engineering, and robotics!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Journey
+
+Throughout my academic journey, I have embraced opportunities to develop my skills in programming, system integration, embedded development, and cloud engineering. My role as a firmware engineer has allowed me to implement communication protocols and develop hardware interfaces, showcasing my technical proficiency and problem-solving abilities. I enjoy working on projects that enhance robotic functionality, demonstrating my commitment to advancing technology in practical applications.
+
+### 📫 Let's Connect!
+
+I’m always eager to collaborate and share ideas! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/furqanriansyah) or explore my work on [GitHub](https://github.com/putrafurqan). You can also email me at [furqanriansyah@gmail.com](furqanriansyah@gmail.com).
+
